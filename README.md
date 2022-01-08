@@ -1,8 +1,10 @@
 ### Hi there 👋
+<p align="center">
 🌱 저는 1년차, GNN을 연구 중인 개발자입니다. 1일 1커밋에 도전하고 있습니다! 🌱
-
+</p>
+<p align="center">
 ✨ 매일매일을 성실하게, 인생은 자유롭게 사는 것이 목표입니다. ✨
-
+</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
