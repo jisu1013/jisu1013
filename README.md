@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FAAC58?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
-
 <h3 align="center">🔆 Blog 🔆</h3>
 <p align="center">https://js-cs-studying.tistory.com</p>
 
@@ -18,8 +16,6 @@
 <p align="center">
   <a href="mailto:jsroh1013@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsroh1013@naver.com"/></a>
 </p>
-
-<br>
 
 <!--
 **jisu1013/jisu1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
