@@ -22,12 +22,10 @@
   <a href="mailto:jsroh1013@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsroh1013@naver.com"/></a>
 </p>
 
-<h3 align="center">✨ Resume ✨</h3>
-<p align="center">https://jisu1013.notion.site/Resume-94de9d2ebe22446ea60eea288d029f42</p>
-
 <!--
 **jisu1013/jisu1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="center">✨ Resume ✨</h3>
+<p align="center">https://jisu1013.notion.site/Resume-94de9d2ebe22446ea60eea288d029f42</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
