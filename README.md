@@ -3,7 +3,7 @@
 🌱 저는 1년차, GNN을 연구 중인 개발자입니다. 1일 1커밋에 도전하고 있습니다! 🌱
 </p>
 <p align="center">
-☕️ 매일매일을 성실하게, 인생은 자유롭게 ☕️
+매일매일을 성실하게, 인생은 자유롭게 ☕️
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FAAC58?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🔆 Blog 🔆</h3>
+<h3 align="center">✨ Blog ✨</h3>
 <p align="center">https://js-cs-studying.tistory.com</p>
 
-<h3 align="center">🎙 Contact 🎙</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
   <a href="mailto:jsroh1013@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsroh1013@naver.com"/></a>
 </p>
