@@ -21,6 +21,10 @@
 <p align="center">
   <a href="mailto:jsroh1013@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsroh1013@naver.com"/></a>
 </p>
+<h3 align="center"> 👍 GitHub Stats 👍 </h3>
+<div align="center">  
+![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu&show_icons=true&theme=vue)
+</div>
 
 <!--
 **jisu1013/jisu1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
