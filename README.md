@@ -23,7 +23,7 @@
 </p>
 <h3 align="center"> 👍 GitHub Stats 👍 </h3>
 <div align="center">  
-![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1013&show_icons=true&theme=vue)
+![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1013&theme=dark&show_icons=true)
 </div>
 
 <!--
