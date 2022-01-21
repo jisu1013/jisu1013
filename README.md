@@ -22,9 +22,8 @@
   <a href="mailto:jsroh1013@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jsroh1013@naver.com"/></a>
 </p>
 <h3 align="center"> 👍 GitHub Stats 👍 </h3>
-<p align="center">  
-  
-![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1013&theme=dark&show_icons=true)
+<p align="center"> 
+![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1013&theme=vue&show_icons=true)
 </p>
 
 <!--
