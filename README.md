@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisu1013&count_bg=%233DC864&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <p align="center">
 🌱 저는 1년차, GNN을 연구 중인 개발자입니다. 1일 1커밋에 도전하고 있습니다! 🌱
 </p>
