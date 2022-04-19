@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-🌱 저는 1년차, GNN을 연구 중인 개발자입니다! 🌱
+🌱 GNN을 연구 중인 1년차 개발자입니다! 🌱
 </p>
-<p align="center">
-매일매일 성실하게, 인생은 즐겁게 ☕️
-</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
