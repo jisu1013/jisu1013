@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-FE642E?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FAAC58?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
