@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-🌱 GNN을 연구 중인 1년차 개발자입니다! 🌱
+🌱 GNN을 연구 중인 개발자입니다! 🌱
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
